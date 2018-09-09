@@ -83,5 +83,3 @@ jobs:
                 - "chrome.tusk.zip"
                 - "firefox.tusk.zip"
               skip_cleanup: true
-              on:
-                  tags: true
